@@ -3,7 +3,7 @@
 An immersive **Virtual Reality Museum** experience built with **Unity 2022**.  
 The project brings cultural heritage to life through interactive 3D exhibits, allowing users to explore, learn, and engage with history in a virtual environment.  
 
-![Museum Thumbnail](./screenshots/vrmuseum) 
+![Museum Thumbnail](screenshots/vrmuseum.png) 
 ---
 
 ## Features

@@ -29,3 +29,25 @@ The project brings cultural heritage to life through interactive 3D exhibits, al
 
 ## Project Structure
 
+VR-Museum/
+│── Assets/ # Unity assets (models, materials, scripts)
+│── Scripts/ # Custom C# scripts
+│── Scenes/ # Unity scenes (Museum halls, lobby, etc.)
+│── Prefabs/ # Reusable interactive objects
+│── Audio/ # Narration & ambient sounds
+│── Docs/ # Documentation & reports
+
+## Getting Started
+
+### Prerequisites
+- Unity 2022.3.x (LTS recommended)  
+- Git LFS (for large assets)  
+- VR headset (Oculus/Meta Quest recommended)  
+
+### Installation
+```bash
+# Clone repository
+git clone https://github.com/your-username/vr-museum.git
+
+# Navigate into project
+cd vr-museum
